@@ -1,0 +1,14 @@
+#配置中心的相关参数。注意必须放到bootstrap这里面
+spring:
+  cloud:
+    config:
+      fail-fast: true
+      profile: dev
+      name: config-client
+      label: master
+      uri: http://localhost:8089/
+      retry:
+        max-interval: 4000
+        multiplier: 1.1
+        max-attempts: 6
+        initial-interval: 2000
