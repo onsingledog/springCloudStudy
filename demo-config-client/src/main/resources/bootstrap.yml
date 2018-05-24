@@ -4,6 +4,7 @@ spring:
     config:
       fail-fast: true
       profile: dev
+#      profile: pro
       name: config-client
       label: master
       uri: http://localhost:8089/
