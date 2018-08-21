@@ -5,6 +5,6 @@ package com.example.demo.controller;
  */
 public class Test {
 
-    String s = "";
+    String s = "123123";
 
 }
