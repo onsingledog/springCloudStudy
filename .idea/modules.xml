@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/demo-cloud/demo-cloud.iml" filepath="$PROJECT_DIR$/demo-cloud/demo-cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-cloud-client/demo-cloud-client.iml" filepath="$PROJECT_DIR$/demo-cloud-client/demo-cloud-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-config-client/demo-config-client.iml" filepath="$PROJECT_DIR$/demo-config-client/demo-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-config-server/demo-config-server.iml" filepath="$PROJECT_DIR$/demo-config-server/demo-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-feign/demo-feign.iml" filepath="$PROJECT_DIR$/demo-feign/demo-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-sleuth-zipkin/demo-sleuth-zipkin.iml" filepath="$PROJECT_DIR$/demo-sleuth-zipkin/demo-sleuth-zipkin.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-spring-boot/demo-spring-boot.iml" filepath="$PROJECT_DIR$/demo-spring-boot/demo-spring-boot.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-zuul/demo-zuul.iml" filepath="$PROJECT_DIR$/demo-zuul/demo-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />

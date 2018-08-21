@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springcloudsleuth" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -9,10 +12,16 @@
         <option value="$PROJECT_DIR$/demo-feign/pom.xml" />
         <option value="$PROJECT_DIR$/demo-spring-boot/pom.xml" />
         <option value="$PROJECT_DIR$/demo-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-sleuth/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloudsleuth/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-sleuth-zipkin/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="false" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

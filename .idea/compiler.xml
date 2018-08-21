@@ -8,20 +8,26 @@
         <outputRelativeToContentRoot value="true" />
         <module name="demo-cloud" />
         <module name="demo-cloud-client" />
+        <module name="demo-config-client" />
+        <module name="demo-config-server" />
         <module name="demo-feign" />
+        <module name="demo-sleuth-zipkin" />
         <module name="demo-spring-boot" />
         <module name="demo-zuul" />
-        <module name="parent" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="demo" target="1.8" />
+    <bytecodeTargetLevel target="1.8">
       <module name="demo-cloud" target="1.8" />
       <module name="demo-cloud-client" target="1.8" />
+      <module name="demo-config-client" target="1.8" />
+      <module name="demo-config-server" target="1.8" />
       <module name="demo-feign" target="1.8" />
+      <module name="demo-sleuth-zipkin" target="1.8" />
       <module name="demo-spring-boot" target="1.8" />
+      <module name="demo-zipkin" target="1.8" />
       <module name="demo-zuul" target="1.8" />
       <module name="parent" target="1.5" />
+      <module name="springcloudsleuth" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
