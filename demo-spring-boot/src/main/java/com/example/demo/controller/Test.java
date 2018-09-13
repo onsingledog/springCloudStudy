@@ -1,8 +1,10 @@
-package com.example.demo.test123;
+package com.example.demo.controller;
 
 /**
  * Created by Administrator on 2018/8/21.
  */
 public class Test {
-    //这是测试git提交
+
+    String s = "1234456";
+
 }
